@@ -6,19 +6,19 @@ Visionist AI is a cutting-edge tool designed to assist visually impaired individ
 ## Features
 - **Scene Understanding**  
   Get a description of the visual scene to assist with navigation and awareness of surroundings.  
-  ![Scene Understanding Screenshot](..\screenshots\Screenshot 2024-11-30 223604.png)
+  ![Scene Understanding Screenshot](sc/Screenshot%202024-11-30%20223604.png)
 
 - **Text-to-Speech**  
   Automatically reads out extracted text or descriptions to provide auditory feedback.  
-  ![Text-to-Speech Screenshot](path_to_screenshot.png)
+  ![Text-to-Speech Screenshot](sc/Screenshot%202024-11-30%20223618.png)
 
 - **Object & Obstacle Detection**  
   Identifies obstacles and objects in images and highlights their positions for safe navigation.  
-  ![Object & Obstacle Detection Screenshot](path_to_screenshot.png)
+  ![Object & Obstacle Detection Screenshot](sc/Screenshot%202024-11-30%20223642.png)
 
 - **Personalized Assistance**  
   Offers task-specific guidance based on the content of the image, including item recognition and label reading.  
-  ![Personalized Assistance Screenshot](path_to_screenshot.png)
+  ![Personalized Assistance Screenshot](sc/Screenshot%202024-11-30%20223750.png)
 
 ## Technology Stack
 - **Image Processing**: The tool uses **Tesseract OCR** for text extraction from images.
@@ -45,10 +45,10 @@ Visionist AI is a cutting-edge tool designed to assist visually impaired individ
 4. Open your browser and navigate to the Streamlit interface to upload images and interact with the AI tool.
 
 ## About the Developer
-- **Name**: Kammari Sadguru Sai
+
 - **GitHub**: [github.com/KammariSadguruSai](https://github.com/KammariSadguruSai)
 - **LinkedIn**: [linkedin.com/in/kammarisadgurusai](https://www.linkedin.com/in/kammarisadgurusai)
-- **Email**: [20259cm025@gmail.com](mailto:20259cm025@gmail.com)
+
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
