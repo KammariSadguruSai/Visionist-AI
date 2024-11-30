@@ -4,10 +4,21 @@
 Visionist AI is a cutting-edge tool designed to assist visually impaired individuals by providing them with real-time visual and contextual understanding. Using advanced image processing, OCR, and natural language processing techniques, Visionist AI can describe scenes, extract text from images, detect obstacles and objects, and provide personalized assistance based on the content of the image.
 
 ## Features
-- **Scene Understanding**: Get a description of the visual scene to assist with navigation and awareness of surroundings.
-- **Text-to-Speech**: Automatically reads out extracted text or descriptions to provide auditory feedback.
-- **Object & Obstacle Detection**: Identifies obstacles and objects in images and highlights their positions for safe navigation.
-- **Personalized Assistance**: Offers task-specific guidance based on the content of the image, including item recognition and label reading.
+- **Scene Understanding**  
+  Get a description of the visual scene to assist with navigation and awareness of surroundings.  
+  ![Scene Understanding Screenshot](..\screenshots\Screenshot 2024-11-30 223604.png)
+
+- **Text-to-Speech**  
+  Automatically reads out extracted text or descriptions to provide auditory feedback.  
+  ![Text-to-Speech Screenshot](path_to_screenshot.png)
+
+- **Object & Obstacle Detection**  
+  Identifies obstacles and objects in images and highlights their positions for safe navigation.  
+  ![Object & Obstacle Detection Screenshot](path_to_screenshot.png)
+
+- **Personalized Assistance**  
+  Offers task-specific guidance based on the content of the image, including item recognition and label reading.  
+  ![Personalized Assistance Screenshot](path_to_screenshot.png)
 
 ## Technology Stack
 - **Image Processing**: The tool uses **Tesseract OCR** for text extraction from images.
@@ -37,6 +48,7 @@ Visionist AI is a cutting-edge tool designed to assist visually impaired individ
 - **Name**: Kammari Sadguru Sai
 - **GitHub**: [github.com/KammariSadguruSai](https://github.com/KammariSadguruSai)
 - **LinkedIn**: [linkedin.com/in/kammarisadgurusai](https://www.linkedin.com/in/kammarisadgurusai)
+- **Email**: [20259cm025@gmail.com](mailto:20259cm025@gmail.com)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
