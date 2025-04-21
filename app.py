@@ -10,7 +10,7 @@ import io
 import base64
 
 # Set Tesseract command for local testing (Windows)
-pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
+pytesseract.pytesseract.tesseract_cmd = r'https://github.com/tesseract-ocr/tesseract'
 
 # Configure Google Gemini API Key
 GOOGLE_API_KEY = ""  # Add your API key
